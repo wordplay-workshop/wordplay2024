@@ -22,8 +22,8 @@ title: "Wordplay: When Language Meets Games (ACL 2024 Workshop)"
 footer: '<a href="mailto:wordplay.workshop.organizers@gmail.com">Contact us</a>'
 description: >- # this means to ignore newlines until "baseurl:"
   Official website for the Wordplay Workshop at ACL 2024.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/wordplay2024" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  wordplay-workshop
 
